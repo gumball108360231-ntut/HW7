@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+C:\Users\逄子毅\Desktop\HW7\P16\source\main.c(5,1): warning C4005: 'max': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : 請參閱 'max' 之前的定義
+  HW.vcxproj -> C:\Users\逄子毅\Desktop\HW7\P16\HW\HW\..\..\temp\debug\HW.exe
